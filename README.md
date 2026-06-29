@@ -25,6 +25,7 @@ Since this project is in active development, community contributions are highly 
 * **Latency Optimization:** Reducing the execution time between the signal and the API order placement.
 * **Indicator Logic:** Fine-tuning the mathematical calculations for DMI (currently analyzing 24-unit differentials) and EMA to reduce false positives.
 * **Advanced Error Handling:** Hardening the script against unexpected exchange-side API downtimes.
+* I am currently balancing the development of this algorithmic script with my university engineering studies. Because time is tight, any community pull requests, feedback, or optimization ideas are highly appreciated!
 
 Feel free to open an Issue or submit a Pull Request.
 
